@@ -36,7 +36,7 @@ ${namabot}
 ╰────❖
 │
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6289509960601?text=Assalamualaikum%20Mau%20sewabot%20bang
+├  🪀 wa.me/6283160327945?text=Assalamualaikum%20Mau%20sewabot%20bang
 ╰────❖
 │
 ╭─[ *ALL PAYMENT* ]─
@@ -56,7 +56,7 @@ ${namabot}
   products:[{productId:'7487741964584083'}]}],
   headerImage: { productId: '7487741964584083',
   jpegThumbnail: baper },
-  businessOwnerJid: `6289509960601@s.whatsapp.net`
+  businessOwnerJid: `6283160327945@s.whatsapp.net`
   },
   footerText: '',
   }},{})
