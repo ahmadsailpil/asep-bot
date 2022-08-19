@@ -24,7 +24,7 @@ const buttons = [
            {buttonId: 'Thanks', buttonText: {displayText: 'Thanks'}, type: 1}
        ]
         
-        let lmao = `Hai ${ye} Lagi Nyari Sc Ya? \n\n\n_*https://wa.me/6289509960601?text=Assalamualaikum%20Bagi%20sc%20nya%20bg?*_`
+        let lmao = `Hai ${ye} Lagi Nyari Sc Ya? \n\n\n_*https://wa.me/6283160327945?text=Assalamualaikum%20Bagi%20sc%20nya%20bg?*_`
         const buttonMessage = {
             text: lmao,
             footer: wm2,
